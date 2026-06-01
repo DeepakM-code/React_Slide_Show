@@ -14,3 +14,48 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+# React Slideshow
+
+A responsive React slideshow with smooth animations and mobile-friendly design.
+
+## Live Demo
+
+🚀 Netlify: [!Netlify](https://react-slide-show.netlify.app/)
+
+🚀 Vercel: [!Vercel] (https://react-slide-show-pi.vercel.app/)
+
+## Features
+
+- Responsive design
+- Smooth slide transitions
+- Navigation controls
+- React Hooks
+- Mobile-friendly UI
+
+## Technologies Used
+
+- React.js
+- CSS3
+- JavaScript (ES6+)
+
+## Installation
+
+```bash
+npm install
+npm start
+
+
+### Better Version with Clickable Buttons
+
+```md
+# React Slideshow
+
+[![Live Demo](https://react-slide-show.netlify.app/)
+[![Vercel](https://react-slide-show-pi.vercel.app/)
+
+## Live Links
+
+- **Netlify:** https://react-slide-show.netlify.app/
+- **Vercel:** https://react-slide-show-pi.vercel.app/
